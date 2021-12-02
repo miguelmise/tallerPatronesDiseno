@@ -1,0 +1,2 @@
+# tallerPatronesDiseno
+Equipo 6
